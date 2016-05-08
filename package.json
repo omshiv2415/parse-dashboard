@@ -21,6 +21,7 @@
     "type": "git",
     "url": "https://github.com/ParsePlatform/parse-dashboard"
   },
+  
   "license": "SEE LICENSE IN LICENSE",
   "files": [
     "Parse-Dashboard",
